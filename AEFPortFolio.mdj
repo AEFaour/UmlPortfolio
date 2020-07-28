@@ -782,6 +782,23 @@
 											"top": 529,
 											"width": 150,
 											"height": 13,
+											"text": "+Date",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAFzk6FraNJmz7E=",
+											"_parent": {
+												"$ref": "AAAAAAFzk4/TF9BIy1Y="
+											},
+											"model": {
+												"$ref": "AAAAAAFzk6FrO9Jjdx4="
+											},
+											"font": "Arial;13;0",
+											"left": 805,
+											"top": 544,
+											"width": 150,
+											"height": 13,
 											"text": "+IdCategory",
 											"horizontalAlignment": 0
 										}
@@ -790,7 +807,7 @@
 									"left": 800,
 									"top": 449,
 									"width": 160,
-									"height": 98
+									"height": 113
 								},
 								{
 									"_type": "UMLOperationCompartmentView",
@@ -803,7 +820,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 800,
-									"top": 547,
+									"top": 562,
 									"width": 160,
 									"height": 10
 								},
@@ -1635,6 +1652,14 @@
 						{
 							"_type": "UMLAttribute",
 							"_id": "AAAAAAFzk5QsMtDWd6c=",
+							"_parent": {
+								"$ref": "AAAAAAFzk4/TF9BAwUc="
+							},
+							"name": "Date"
+						},
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAFzk6FrO9Jjdx4=",
 							"_parent": {
 								"$ref": "AAAAAAFzk4/TF9BAwUc="
 							},
